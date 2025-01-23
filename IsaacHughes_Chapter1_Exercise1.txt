@@ -1,0 +1,30 @@
+Name: Isaac Hughes
+Date Created: 1/23/2025
+
+Description:
+This program is a cinema ticket pre-sale application. It allows a maximum of 20 tickets to be sold, with a limit of 4 tickets per buyer. The program prompts users to request tickets, verifies the input, and displays the remaining tickets after each purchase. Once all tickets are sold, it outputs the total number of buyers.
+
+Functions:
+
+get_ticket_request(remaining_tickets):
+
+Prompts the user for the number of tickets they wish to buy.
+Validates the input to ensure it is between 1 and 4 and does not exceed the number of remaining tickets.
+Returns the valid number of tickets requested.
+ticket_sales():
+
+Manages the ticket sale process, updating the number of remaining tickets, counting buyers, and displaying progress.
+Terminates when all tickets are sold and outputs the total number of buyers.
+Logical Steps:
+
+Define a constant for the total number of tickets (20).
+Create a function to handle user input and validation for ticket requests.
+Create a main function to manage ticket sales:
+Initialize the total number of tickets and a counter for buyers.
+Use a loop to process ticket purchases until all tickets are sold.
+Update the remaining ticket count and buyer counter after each purchase.
+Display a message when all tickets are sold, including the total number of buyers.
+Use an accumulator to track the total number of buyers.
+
+
+Repository Link:
