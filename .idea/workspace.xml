@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81f7c4ae-2047-4b62-a5a3-685a7f10f60d" name="Changes" comment="Chapter 3 Exercise">
+      <change afterPath="$PROJECT_DIR$/.idea/COP2373.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debugging_Exercise.DOC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flappy bird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IsaacHughes_Chapter7_Exercise7.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IsaacHughes_Chapter7_Exercise7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IsaacHughes_Chapter2_Exercise.Doc" beforeDir="false" afterPath="$PROJECT_DIR$/IsaacHughes_Chapter2_Exercise.Doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IsaacHughes_Chapter7_Exercise6.doc" beforeDir="false" afterPath="$PROJECT_DIR$/IsaacHughes_Chapter7_Exercise6.doc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ihugs73&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ihugs73/COP2373.git&quot;,
+    &quot;accountId&quot;: &quot;3fe1c717-d281-4501-bd77-6e7726391011&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2raMnRg0obDExRiWEYaC9lDtBQQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Debugging_Exercise.executor": "Run",
+    "Python.Flappy bird.executor": "Run",
+    "Python.IsaacHughes_Chapter2_Exercise.executor": "Run",
+    "Python.IsaacHughes_Chapter7_Exercise6.executor": "Run",
+    "Python.IsaacHughes_Chapter7_Exercise7.executor": "Run",
+    "Python.joe.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ijhug\PycharmProjects\COP2373" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81f7c4ae-2047-4b62-a5a3-685a7f10f60d" name="Changes" comment="" />
+      <created>1736792898773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736792898773</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Chapter One assignment">
+      <option name="closed" value="true" />
+      <created>1737649677743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737649677743</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chapter One assignment">
+      <option name="closed" value="true" />
+      <created>1737650563234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737650563234</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Debugging Exercise">
+      <option name="closed" value="true" />
+      <created>1738167899796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738167899796</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Chapter 2">
+      <option name="closed" value="true" />
+      <created>1739038884417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739038884417</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Chapter 3 Exercise">
+      <option name="closed" value="true" />
+      <created>1739326292388</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739326292388</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter One assignment" />
+    <MESSAGE value="Debugging Exercise" />
+    <MESSAGE value="Chapter 2" />
+    <MESSAGE value="Chapter 3 Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 Exercise" />
+  </component>
+</project>
